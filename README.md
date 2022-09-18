@@ -6,8 +6,6 @@ This project analyzes data from Pyber, a ride sharing company valued at $2.3 bil
 ## Results
 As seen in the chart below, there is a significant difference between the data from each city type. Compared to number of rides in rural cities, there are 5x as many rides and 13x as many rides in suburban and urban cities respectively. This results in suburban cities having nearly 4.5x the amount of total fares compared to rural cities and urban cities having 9.2x the amount of total fares compared to rural cities. These results indicate that there is not an equal correlation between number of rides and fare of each ride. This is also reflected in the average fare per ride for each city type. On average, riders in a rural city is paying nearly $3.50 more per ride and $10 more per ride compared to fellow riders in suburban and urban cities. 
 
-Total Drivers part
-
 ## Summary
 With this analysis in mind, we would like to provide the following recommendations to decision makers at Pyber:
 
